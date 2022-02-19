@@ -85,37 +85,30 @@
     ],
     "experience": [
       {
-        "company": "DefOpenSource",
-        "title": "Front-End Developer",
+        "company": "AYW",
+        "title": "Electrician Apprentice",
         "years": "10.2019 - present",
         "mainTech": [
-          "Angular 8/9/10"
+          "8/9/10"
         ],
         "technologies": [
-          "REST API",
-          "RxJS",
           "JavaScript",
           "Bootstrap",
-          "MDBootstrap",
-          "EF Core",
-          ".NET Core",
-          "SignalR",
-          "Angular Material"
-        ]
+          "CSS",
+          "HTML5"        ]
       },
       {
-        "company": "Serros Solutions",
-        "title": "Intern",
-        "years": "01.2018 - 09.2019",
+        "company": "Nicholas Mercado Photography",
+        "title": "Lighting Technician",
+        "years": "01.2013 - 09.2019",
         "mainTech": [
-          "Angular 7/8"
+          "7/8"
         ],
         "technologies": [
-          "RxJS",
-          "Django",
-          "PHP",
-          "JavaScript",
-          "DHTMLX Gantt"
+          "Photoshop",
+          "Capture One",
+          "Illistrator",
+          "Lightroom"
         ]
       }
     ]

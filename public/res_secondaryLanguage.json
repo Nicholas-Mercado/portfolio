@@ -81,8 +81,8 @@
     ],
     "experience": [
       {
-        "company": "DefOpenSource",
-        "title": "Front-End Developer",
+        "company": "AYW",
+        "title": "Test",
         "years": "02.2019 - obecnie",
         "mainTech": [
           "Angular 8/9/10"
@@ -92,7 +92,7 @@
           "Bootstrap",
           "MDBootstrap",
           "EF Core",
-          "Angular Material"
+          "Angular Manpterial"
         ]
       },
       {
