@@ -12,6 +12,11 @@
           "name": "twitter",
           "url": "https://twitter.com/_NMercado",
           "class": "fab fa-twitter"
+        },
+        {
+          "name": "linkedin",
+          "url": "https://www.linkedin.com/in/nicholasmercado/",
+          "class": "fab fa-linkedin"
         }
       ],
       "image": "myProfile.jpg"
